@@ -76,7 +76,7 @@ class AuthFailed(APIException):
     msg = 'authorization failed'
  
 class Forbidden(APIException):
-    code = 403
+    code = 403 
     error_code = 1004
     msg = 'forbidden, not in scope'
 

@@ -11,7 +11,7 @@ def index():
     return 'Hello HPU_School_Helper_APIs!'
 
 # 获取教务session
-# 接收：ip
+# 接收：ip 
 # 返回：session content, shaHeader, aesHeader, captcha
 @app.route('/eams/session', methods=['POST'])
 def EamsSession():
