@@ -1,0 +1,8 @@
+Werkzeug==1.0.1
+pypandoc==1.5
+Flask==1.0
+Js2Py==0.68
+img2pdf==0.3.6
+requests==2.24.0
+beautifulsoup4==4.9.3
+Pillow==8.1.0
