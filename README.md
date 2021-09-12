@@ -1,6 +1,6 @@
 ### HPU_School_Helper_APIs
 
-使用flask搭建的用于爬取`Henan Polytechnic University`教务处、后勤、公告等网站的api框架
+使用flask搭建的用于爬取`河南理工大学`教务处、后勤、公告等网站的api框架
 
 实现的功能有：
 
