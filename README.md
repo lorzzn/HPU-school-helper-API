@@ -1,4 +1,4 @@
-### HPU_School_Helper_API
+### HPU-School-Helper-API
 
 使用flask搭建的用于爬取`河南理工大学`教务处、后勤、公告等网站的api框架
 
