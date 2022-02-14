@@ -1,0 +1,728 @@
+{
+    "activities": [
+        [],
+        [],
+        [
+            {
+                "assistantName": "",
+                "courseId": "5386(091016351.001)",
+                "courseName": "计算机图形学(091016351.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1675",
+                "teacherName": "徐文鹏",
+                "vaildWeeks": "00000000001111111110000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "5386(091016351.001)",
+                "courseName": "计算机图形学(091016351.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1675",
+                "teacherName": "徐文鹏",
+                "vaildWeeks": "00000000001111111110000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15924(091015020.001)",
+                "courseName": "算法分析与设计(091015020.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "405",
+                "roomName": "102[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "301",
+                "teacherName": "姜国权",
+                "vaildWeeks": "00000000000111111000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15924(091015020.001)",
+                "courseName": "算法分析与设计(091015020.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "405",
+                "roomName": "102[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "301",
+                "teacherName": "姜国权",
+                "vaildWeeks": "00000000000111111000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13253(091016200.001)",
+                "courseName": "编译原理(091016200.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "320",
+                "roomName": "203[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1807",
+                "teacherName": "智慧来",
+                "vaildWeeks": "00000000000111111110000000000000000000000000000000000"
+            },
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "577",
+                "roomName": "3408[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "01101111111000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13253(091016200.001)",
+                "courseName": "编译原理(091016200.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "320",
+                "roomName": "203[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1807",
+                "teacherName": "智慧来",
+                "vaildWeeks": "00000000000111111110000000000000000000000000000000000"
+            },
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "577",
+                "roomName": "3408[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "01101111111000000000000000000000000000000000000000000"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15898(090015030.002)",
+                "courseName": "微机原理与接口技术(090015030.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "319",
+                "roomName": "107[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "529",
+                "teacherName": "李静",
+                "vaildWeeks": "01111111111110000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15898(090015030.002)",
+                "courseName": "微机原理与接口技术(090015030.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "319",
+                "roomName": "107[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "529",
+                "teacherName": "李静",
+                "vaildWeeks": "01111111111110000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13721(090055070.002)",
+                "courseName": "数据库系统概论(090055070.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "391",
+                "roomName": "106[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2962,2809",
+                "teacherName": "李金丽,王岩",
+                "vaildWeeks": "01111000000000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13721(090055070.002)",
+                "courseName": "数据库系统概论(090055070.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "391",
+                "roomName": "106[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2962,2809",
+                "teacherName": "李金丽,王岩",
+                "vaildWeeks": "01111000000000000000000000000000000000000000000000000"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000111100000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000111100000000000000000000000000000000000000000000"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "406",
+                "roomName": "103[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "01101111111000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "406",
+                "roomName": "103[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "01101111111000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "5386(091016351.001)",
+                "courseName": "计算机图形学(091016351.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "321",
+                "roomName": "3101[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1675",
+                "teacherName": "徐文鹏",
+                "vaildWeeks": "00000000001111111110000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "5386(091016351.001)",
+                "courseName": "计算机图形学(091016351.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "321",
+                "roomName": "3101[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1675",
+                "teacherName": "徐文鹏",
+                "vaildWeeks": "00000000001111111110000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "81",
+                "roomName": "1209[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "00001000000000000000000000000000000000000000000000000"
+            },
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "81",
+                "roomName": "1209[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "00000100000000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "81",
+                "roomName": "1209[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "00001000000000000000000000000000000000000000000000000"
+            },
+            {
+                "assistantName": "",
+                "courseId": "7451(090030090.001)",
+                "courseName": "操作系统(090030090.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "81",
+                "roomName": "1209[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2090",
+                "teacherName": "张磊",
+                "vaildWeeks": "00000100000000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15924(091015020.001)",
+                "courseName": "算法分析与设计(091015020.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "316",
+                "roomName": "110[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "301",
+                "teacherName": "姜国权",
+                "vaildWeeks": "00000000000111111000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15924(091015020.001)",
+                "courseName": "算法分析与设计(091015020.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "316",
+                "roomName": "110[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "301",
+                "teacherName": "姜国权",
+                "vaildWeeks": "00000000000111111000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15898(090015030.002)",
+                "courseName": "微机原理与接口技术(090015030.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "319",
+                "roomName": "107[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "529",
+                "teacherName": "李静",
+                "vaildWeeks": "01111111111110000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15898(090015030.002)",
+                "courseName": "微机原理与接口技术(090015030.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "319",
+                "roomName": "107[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "529",
+                "teacherName": "李静",
+                "vaildWeeks": "01111111111110000000000000000000000000000000000000000"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13253(091016200.001)",
+                "courseName": "编译原理(091016200.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "320",
+                "roomName": "203[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1807",
+                "teacherName": "智慧来",
+                "vaildWeeks": "00000000000111111110000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13253(091016200.001)",
+                "courseName": "编译原理(091016200.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "320",
+                "roomName": "203[计算机综合楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1807",
+                "teacherName": "智慧来",
+                "vaildWeeks": "00000000000111111110000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000000011000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000000011000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000000000110000000000000000000000000000000000000000"
+            },
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "322",
+                "roomName": "3102[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000111100000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "323",
+                "roomName": "3103[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000000000110000000000000000000000000000000000000000"
+            },
+            {
+                "assistantName": "",
+                "courseId": "15923(090015010.001)",
+                "courseName": "机器视觉(090015010.001)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "322",
+                "roomName": "3102[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "780",
+                "teacherName": "芦碧波",
+                "vaildWeeks": "00000111100000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13721(090055070.002)",
+                "courseName": "数据库系统概论(090055070.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "354",
+                "roomName": "3501[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2962,2809",
+                "teacherName": "李金丽,王岩",
+                "vaildWeeks": "00000111100000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "13721(090055070.002)",
+                "courseName": "数据库系统概论(090055070.002)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "354",
+                "roomName": "3501[南校区3号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "2962,2809",
+                "teacherName": "李金丽,王岩",
+                "vaildWeeks": "00000111100000000000000000000000000000000000000000000"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "assistantName": "",
+                "courseId": "11650(120000261.067)",
+                "courseName": "形势与政策-4(120000261.067)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "502",
+                "roomName": "1303[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1352",
+                "teacherName": "张文嘉",
+                "vaildWeeks": "00000000001000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "11650(120000261.067)",
+                "courseName": "形势与政策-4(120000261.067)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "502",
+                "roomName": "1303[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1352",
+                "teacherName": "张文嘉",
+                "vaildWeeks": "00000000001000000000000000000000000000000000000000000"
+            }
+        ],
+        [
+            {
+                "assistantName": "",
+                "courseId": "11650(120000261.067)",
+                "courseName": "形势与政策-4(120000261.067)",
+                "experiItemName": "",
+                "remark": "",
+                "roomId": "502",
+                "roomName": "1303[南校区1号教学楼](南校区)",
+                "schGroupNo": "",
+                "taskId": null,
+                "teacherId": "1352",
+                "teacherName": "张文嘉",
+                "vaildWeeks": "00000000001000000000000000000000000000000000000000000"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "endAtSat": false,
+    "marshalContents": [
+        null,
+        null,
+        "计算机图形学(091016351.001) (徐文鹏)<br><br><br>(10-18,3103[南校区3号教学楼](南校区))",
+        "计算机图形学(091016351.001) (徐文鹏)<br><br><br>(10-18,3103[南校区3号教学楼](南校区))",
+        "算法分析与设计(091015020.001) (姜国权)<br><br><br>(11-16,102[计算机综合楼](南校区))",
+        "算法分析与设计(091015020.001) (姜国权)<br><br><br>(11-16,102[计算机综合楼](南校区))",
+        "编译原理(091016200.001) (智慧来)<br>(11-18,203[计算机综合楼](南校区)<br>操作系统(090030090.001) (张磊)<br>(1-2 4-10,3408[南校区3号教学楼](南校区)",
+        "编译原理(091016200.001) (智慧来)<br>(11-18,203[计算机综合楼](南校区)<br>操作系统(090030090.001) (张磊)<br>(1-2 4-10,3408[南校区3号教学楼](南校区)",
+        null,
+        null,
+        "微机原理与接口技术(090015030.002) (李静)<br><br><br>(1-12,107[计算机综合楼](南校区))",
+        "微机原理与接口技术(090015030.002) (李静)<br><br><br>(1-12,107[计算机综合楼](南校区))",
+        "数据库系统概论(090055070.002) (李金丽,王岩)<br><br><br>(1-4,106[计算机综合楼](南校区))",
+        "数据库系统概论(090055070.002) (李金丽,王岩)<br><br><br>(1-4,106[计算机综合楼](南校区))",
+        null,
+        null,
+        null,
+        null,
+        "机器视觉(090015010.001) (芦碧波)<br><br><br>(5-8,3103[南校区3号教学楼](南校区))",
+        "机器视觉(090015010.001) (芦碧波)<br><br><br>(5-8,3103[南校区3号教学楼](南校区))",
+        null,
+        null,
+        "操作系统(090030090.001) (张磊)<br><br><br>(1-2 4-10,103[计算机综合楼](南校区))",
+        "操作系统(090030090.001) (张磊)<br><br><br>(1-2 4-10,103[计算机综合楼](南校区))",
+        "计算机图形学(091016351.001) (徐文鹏)<br><br><br>(10-18,3101[南校区3号教学楼](南校区))",
+        "计算机图形学(091016351.001) (徐文鹏)<br><br><br>(10-18,3101[南校区3号教学楼](南校区))",
+        "操作系统(090030090.001) (张磊)<br>(4-5,1209[南校区1号教学楼](南校区)",
+        "操作系统(090030090.001) (张磊)<br>(4-5,1209[南校区1号教学楼](南校区)",
+        "算法分析与设计(091015020.001) (姜国权)<br><br><br>(11-16,110[计算机综合楼](南校区))",
+        "算法分析与设计(091015020.001) (姜国权)<br><br><br>(11-16,110[计算机综合楼](南校区))",
+        "微机原理与接口技术(090015030.002) (李静)<br><br><br>(1-12,107[计算机综合楼](南校区))",
+        "微机原理与接口技术(090015030.002) (李静)<br><br><br>(1-12,107[计算机综合楼](南校区))",
+        null,
+        null,
+        "编译原理(091016200.001) (智慧来)<br><br><br>(11-18,203[计算机综合楼](南校区))",
+        "编译原理(091016200.001) (智慧来)<br><br><br>(11-18,203[计算机综合楼](南校区))",
+        "机器视觉(090015010.001) (芦碧波)<br><br><br>(9-10,3103[南校区3号教学楼](南校区))",
+        "机器视觉(090015010.001) (芦碧波)<br><br><br>(9-10,3103[南校区3号教学楼](南校区))",
+        "机器视觉(090015010.001) (芦碧波)<br>(11-12,3103[南校区3号教学楼](南校区)<br>机器视觉(090015010.001) (芦碧波)<br>(5-8,3102[南校区3号教学楼](南校区)",
+        "机器视觉(090015010.001) (芦碧波)<br>(11-12,3103[南校区3号教学楼](南校区)<br>机器视觉(090015010.001) (芦碧波)<br>(5-8,3102[南校区3号教学楼](南校区)",
+        "数据库系统概论(090055070.002) (李金丽,王岩)<br><br><br>(5-8,3501[南校区3号教学楼](南校区))",
+        "数据库系统概论(090055070.002) (李金丽,王岩)<br><br><br>(5-8,3501[南校区3号教学楼](南校区))",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "形势与政策-4(120000261.067) (张文嘉)<br><br><br>(10,1303[南校区1号教学楼](南校区))",
+        "形势与政策-4(120000261.067) (张文嘉)<br><br><br>(10,1303[南校区1号教学楼](南校区))",
+        "形势与政策-4(120000261.067) (张文嘉)<br><br><br>(10,1303[南校区1号教学楼](南校区))",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "unitCounts": 70,
+    "year": 2020
+}

@@ -1,0 +1,7 @@
+/*_venv
+/python_src.zip
+/load_plan_ts.txt
+test/*
+/runtime/cache/*
+logs/*
+__pycache__

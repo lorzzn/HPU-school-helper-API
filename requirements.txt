@@ -1,0 +1,11 @@
+requests==2.24.0
+Werkzeug==1.0.1
+py7zr==0.11.3
+Js2Py==0.68
+Flask_Caching==1.9.0
+Flask==1.0
+img2pdf==0.3.6
+unrar==0.4
+pypandoc==1.5
+beautifulsoup4==4.9.3
+Pillow==8.1.0
